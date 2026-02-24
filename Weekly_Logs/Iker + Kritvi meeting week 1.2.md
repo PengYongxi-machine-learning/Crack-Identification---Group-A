@@ -16,4 +16,5 @@ Next steps:
     4. Using already available models for cracked detection
 
 To be done by friday:
-- Explore grayscale conversion and contrast 
+- Explore grayscale conversion and contrast (Kritvi)
+- Outlier detection (Iker)
