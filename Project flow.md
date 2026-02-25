@@ -20,17 +20,16 @@ Goals:
 
 1. Data Exploration: 
 
-    1.1 Find the number of images with crack and no crack for walls and decks
+    1.1 Find the number of images with crack and no crack for walls and decks (y)
 
-    1.2 Confirm the standardized format and figure size
+    1.2 Confirm the standardized format and figure size (y)
 
-    1.3 Visualize the difference between cracked wall, cracked deck, uncracked wall and uncracked deck
+    1.3 Visualize the difference between cracked wall, cracked deck, uncracked wall and uncracked deck (y)
 
     1.4 Convert each image into 3x256x256 array
 
-    1.5 Compute RGB distribution for cracked wall, uncracked wall, cracked deck and uncracked deck (representative)
+    1.5 Compute RGB distribution for cracked wall, uncracked wall, cracked deck and uncracked deck (representative) (y)
 
-    1.6 Convert RBG values into XYZ plane and discover hidden pattern for crack pixels
 
 2. Data Preprocessing:
 
