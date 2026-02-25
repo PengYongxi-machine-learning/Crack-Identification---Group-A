@@ -33,6 +33,6 @@ Goals:
 
 2. Data Preprocessing:
 
-    2.1 Apply kernels to images based on distribution results
+    2.1 Apply filters to images (y)
 
-    2.2 Identify separation boundary
+    2.2 Train and testing split 
