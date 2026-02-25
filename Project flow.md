@@ -35,4 +35,4 @@ Goals:
 
     2.1 Apply filters to images (y)
 
-    2.2 Train and testing split 
+    2.2 Train and testing split (y)
