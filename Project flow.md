@@ -26,7 +26,7 @@ Goals:
 
     1.3 Visualize the difference between cracked wall, cracked deck, uncracked wall and uncracked deck (y)
 
-    1.4 Convert each image into 3x256x256 array
+    1.4 Convert each image into 3x256x256 array (y)
 
     1.5 Compute RGB distribution for cracked wall, uncracked wall, cracked deck and uncracked deck (representative) (y)
 
