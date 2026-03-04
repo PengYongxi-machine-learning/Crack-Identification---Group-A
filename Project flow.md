@@ -36,3 +36,17 @@ Goals:
     2.1 Apply filters to images (y)
 
     2.2 Train and testing split (y)
+
+
+3. Model training:
+
+    3.1 Build CNN model
+
+    3.2 Train images with two pretrained models
+
+
+4. Results:
+
+    4.1 Confusion matrix
+
+    4.2 Precision and recall
