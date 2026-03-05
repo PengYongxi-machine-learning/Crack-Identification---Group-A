@@ -1,3 +1,5 @@
 *.pkl
 *.h5
 *.keras
+*.pth
+*.json
